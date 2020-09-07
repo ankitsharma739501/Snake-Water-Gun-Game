@@ -1,2 +1,3 @@
 # Snake-Water-Gun-Game
-This is a game based on C language, which I have learned from a YouTube channel name codewithharry, it was really fun learning to make a game.
+This is a game based on C language, which is played with the computer. It is a simple game you can play whenever you are bored and got no partner so, go ahead play with the computer. I hope you like it. Thank you.
+
