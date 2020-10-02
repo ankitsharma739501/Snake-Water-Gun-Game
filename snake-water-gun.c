@@ -1,5 +1,7 @@
 //Snake Water & Gun Game!
 //Enjoy Playing with computer.
+//How to play: Choose one thing between snake , water and gun. And computer will choose one 
+//Let's see who wins!
 
 #include <stdio.h>
 #include <stdlib.h>
